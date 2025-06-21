@@ -24,4 +24,4 @@ What I Learned//Key Skills
 Final Result
 The final annotated UMAP shows the successful identification of all major expected cell populations:
 
-![Final Annotated UMAP Plot](final_umap_plot)
+![Final Annotated UMAP Plot](final_umap_plot.png)
